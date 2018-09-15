@@ -1,0 +1,21 @@
+#myBody {
+    background-color:gray;
+}
+
+
+#title {
+    color:black;
+
+}
+.myForm :hover{
+    
+    text-align:left;
+    background-color: pink;
+
+}
+#developer-list {
+    color: black;
+    text-align: left;
+    border-width: 2px;
+    
+}
