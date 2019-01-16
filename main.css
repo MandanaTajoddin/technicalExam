@@ -1,7 +1,10 @@
-#myBody {
-    background-color:gray;
+body{
+    background-image: url("img/gray-img.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    image-resolution: 1%; 
+    font-style: italic; 
 }
-
 
 #title {
     color:black;
